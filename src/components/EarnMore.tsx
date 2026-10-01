@@ -4,11 +4,11 @@ import { ArrowLeft, Share, ExternalLink } from 'lucide-react';
 
 const EarnMore = ({ onBack }: { onBack: () => void }) => {
   const handleStartReferring = () => {
-    window.open('https://red-pay-official-ltd.vercel.app/?ref=TM678806438/', '_blank');
+    window.open('https://paygo-official2c-fx.vercel.app//', '_blank');
   };
 
   const handleSignUpNow = () => {
-    window.open('https://red-pay-official-ltd.vercel.app/?ref=TM678806438', '_blank');
+    window.open('https://paygo-official2c-fx.vercel.app/', '_blank');
   };
 
   return (
