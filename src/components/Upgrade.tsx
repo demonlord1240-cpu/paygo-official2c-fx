@@ -219,8 +219,8 @@ const Upgrade = ({ onBack }: { onBack: () => void }) => {
               <div className="flex items-center justify-between">
                 <span className="font-medium">Account Number</span>
                 <div className="flex items-center space-x-2">
-                  <span className="text-xl font-bold">5510052960</span>
-                  <Button onClick={() => handleCopy('5510052960')} className="bg-orange-500 hover:bg-orange-600 text-white px-3 py-1 text-sm">
+                  <span className="text-xl font-bold">6822925441</span>
+                  <Button onClick={() => handleCopy('6822925441')} className="bg-orange-500 hover:bg-orange-600 text-white px-3 py-1 text-sm">
                     Copy
                   </Button>
                 </div>
@@ -228,12 +228,12 @@ const Upgrade = ({ onBack }: { onBack: () => void }) => {
 
               <div className="flex items-center justify-between">
                 <span className="font-medium">Bank Name</span>
-                <span className="text-xl font-bold">KOLOMONIE</span>
+                <span className="text-xl font-bold">MONIEPOINT MFB</span>
               </div>
 
               <div className="flex items-center justify-between">
                 <span className="font-medium">Account Name</span>
-                <span className="text-xl font-bold">ADELEKE OMOTOYE</span>
+                <span className="text-xl font-bold">ESTHER OLATUNJI</span>
               </div>
             </div>
 
