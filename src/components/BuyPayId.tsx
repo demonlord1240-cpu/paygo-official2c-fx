@@ -176,7 +176,7 @@ const BuyPayId = ({
 
                 <div className="flex items-center justify-between py-4 border-b border-gray-200">
                   <span className="text-gray-700 font-medium">Account Name</span>
-                  <span className="text-xl font-bold text-gray-900">ESTHER OLATUNJI</span>
+                  <span className="text-xl font-bold text-gray-900">OMOTOYE ADELEKE</span>
                 </div>
               </div>
 
